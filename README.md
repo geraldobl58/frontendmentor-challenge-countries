@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontendmentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
-- Live Site URL: [Link Vercel](https://your-live-site-url.com)
+- Live Site URL: [Link Netlify](https://frontendmentor-challenge-countries.netlify.app/)
 
 ### Built with
 
@@ -44,6 +44,7 @@ Users should be able to:
 - Styled Components
 - Flexbox
 - CSS Grid
+- Responsive
 - React Hooks
 - Typescript
 - [React](https://reactjs.org/) - JS library
@@ -92,13 +93,16 @@ yarn generate Component
 │   │       ├── index.tsx
 │   │       ├── styles.ts
 │   ├── index.tsx # main file to ReactDom.render
+    ├── Hooks
 │   ├── pages # we separated our pages/views/screens here
 │   │   └── Home.tsx
+    ├── Routes
+    ├── Services
 │   └── styles # any styles that you want to share inside the app
 │       └── global.ts
 ```
 
 ## Author
 
-- Website - [Geraldo Luiz](https://www.your-site.com)
+- Website - [Geraldo Luiz](https://www.geraldobluiz.com.br/)
 - Frontend Mentor - [@geraldobl58](https://www.frontendmentor.io/profile/geraldobl58)
